@@ -1,3 +1,3 @@
 # ca-html-css-a2
 
-Created a Responsive web page
+Designed a Responsive web page
